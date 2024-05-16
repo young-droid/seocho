@@ -1,3 +1,1 @@
-222
-이 두번째 줄은 qa 서버에서 수정되었습니다.
-이 세번째 줄은 qa 서버에서 stage 하기 전 수정되었습니다. 
+Thanos took everything
